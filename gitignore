@@ -1,0 +1,4 @@
+*.enc
+*.key
+.backup-encryption-key
+*.log
